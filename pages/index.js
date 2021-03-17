@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import utilStyles from '../styles/utils.module.css'
+import utilStyles from '../styles/utils.module.scss'
 import Layout, { siteTitle } from '../components/layout'
 
 export default function Home() {
